@@ -1,0 +1,3 @@
+{
+  "Connection": "Server= .\\SQLEXPRESS; Database= StudentManagementDB; TrustServerCertificate= True; Integrated Security= SSPI"
+}
